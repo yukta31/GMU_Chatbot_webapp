@@ -44,4 +44,4 @@ Add user authentication
 
 Author: Yukta Batra
 M.S. in Computer Science @ George Mason University
-📧 yuktab@gmu.edu
+📧 ybatra@gmu.edu
