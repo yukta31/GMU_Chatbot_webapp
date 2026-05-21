@@ -28,7 +28,7 @@ A responsive, AI-inspired chat web app built using **Next.js** and **Material UI
 
 ## ⚙️ Run Locally
 ```bash
-git clone https://github.com/YOURUSERNAME/gmu-chat-frontend.git
+git clone https://github.com/yukta31/GMU_Chatbot_webapp.git
 cd gmu-chat-frontend
 npm install
 npm run dev
